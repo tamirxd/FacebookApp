@@ -1,2 +1,2 @@
 # FacebookApp
-Light Facebook App for windows.
+Light Facebook App for windows, using Facebook's Graph API.

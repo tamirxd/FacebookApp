@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="FacebookWrapper.ObjectModel.Album">
+    <Position X="5.25" Y="0.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="FacebookWrapper.ObjectModel.Album.eType" Collapsed="true">
+        <TypeIdentifier />
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.Checkin" Collapsed="true">
+    <Position X="3.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.Status">
+    <Position X="0.75" Y="4.5" Width="2.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.FriendList">
+    <Position X="1" Y="0.75" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.LoginResult" Collapsed="true">
+    <Position X="52" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.FacebookService" Collapsed="true">
+    <Position X="50.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.FBAsyncCompletedEventArgs&lt;T&gt;" Collapsed="true">
+    <Position X="12.25" Y="11.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.FBCollectionEventArgs&lt;T&gt;" Collapsed="true">
+    <Position X="12.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.Photo" Collapsed="true">
+    <Position X="23.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.Post" Collapsed="true">
+    <Position X="26" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.User" Collapsed="true">
+    <Position X="38.75" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.DynamicWrapper" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.FacebookObject" Collapsed="true">
+    <Position X="14.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.OwnerObject" Collapsed="true">
+    <Position X="36.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.PostedItem" Collapsed="true">
+    <Position X="16.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.InboxThread" Collapsed="true">
+    <Position X="34.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.GeoPostedItem" Collapsed="true">
+    <Position X="25" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.Video" Collapsed="true">
+    <Position X="27.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.Education" Collapsed="true">
+    <Position X="29.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.PicturesColleciton" Collapsed="true">
+    <Position X="48.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.UnsupportedPictureTypeException" Collapsed="true">
+    <Position X="50.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.Poke" Collapsed="true">
+    <Position X="43.25" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.Link" Collapsed="true">
+    <Position X="19.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.Group" Collapsed="true">
+    <Position X="36.5" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.Experience" Collapsed="true">
+    <Position X="41" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.TagInfo" Collapsed="true">
+    <Position X="28.75" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.PhotoTag" Collapsed="true">
+    <Position X="28.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.City" Collapsed="true">
+    <Position X="43.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.FBImage" Collapsed="true">
+    <Position X="45.5" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.Comment" Collapsed="true">
+    <Position X="21.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.Message" Collapsed="true">
+    <Position X="32" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.WorkExperience" Collapsed="true">
+    <Position X="41" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.Location" Collapsed="true">
+    <Position X="31" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.FacebookObjectCollection&lt;T&gt;" Collapsed="true">
+    <Position X="48.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.Place" Collapsed="true">
+    <Position X="38.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.Event" Collapsed="true">
+    <Position X="46" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.Page" Collapsed="true">
+    <Position X="34.25" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FacebookWrapper.ObjectModel.Cover" Collapsed="true">
+    <Position X="19.5" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Enum Name="FacebookWrapper.ObjectModel.eFacebookObjectPictureSize" Collapsed="true">
+    <Position X="50.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="FacebookWrapper.ObjectModel.eFacebookPhotoPictureSize" Collapsed="true">
+    <Position X="52" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="FacebookWrapper.ObjectModel.eFacebookAlbumPictureSize" Collapsed="true">
+    <Position X="48.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
